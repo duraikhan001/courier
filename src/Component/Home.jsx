@@ -34,7 +34,7 @@ const Home = () => {
 
         <div style={{ marginTop: "30px" }}>
           <Link
-            to="/status"
+            to="/status1"
             style={{
               backgroundColor: "#ec8b0bff",
               color: "white",
@@ -45,6 +45,7 @@ const Home = () => {
             }}
           >
             Track Your Parcel
+
           </Link>
         </div>
 

@@ -9,7 +9,9 @@ const About = () => {
         minHeight: "100vh",
         padding: "40px",
         fontFamily: "Arial, sans-serif",
+
       }}
+
     >
       <center>
         <h1 style={{ color: "#000000ff", backgroundColor: "yellow" }}>About Our Courier Service</h1>
@@ -67,6 +69,7 @@ const About = () => {
           <p>Phone: +91 96290 33356</p>
         </div>
       </center>
+      
     </div>
   )
 }

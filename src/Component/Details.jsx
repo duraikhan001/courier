@@ -7,7 +7,7 @@ export const CourierDetails = () => {
     trackingId: id || "12345",
     status: "In Transit",
     from: "Chennai",
-    to: "Mumbai",
+    to: "delhi",
     location: "Bangalore Hub",
     expectedDelivery: "29 Jan 2026",
   }
